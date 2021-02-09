@@ -2,10 +2,13 @@
 
 ![ Mate ROV simulation ](./media/mate_rov_demo.gif)
 
+Welcome to the MATE simulation repository, developed by Columbia University Robotics Club. This repo contains the source code for simulating our underwater vehicle using ROS and Gazebo.
+
 * Note : this simulation is currently heavily inspired from https://github.com/NishanthARao/ROS-Quadcopter-Simulation , it's a very nice simulation base so please see how the simulation started at your own leisure. 
 
-These are our first Launch instructions and they may change but it'll help you get the ROV to move.
+# Getting Started
 
+To start using our simulation system, you can follow the instructions provided in this document.
 ```
 cd ~/workspace/mate-rov/2020_workspace
 catkin_make
@@ -38,7 +41,14 @@ anything else : stop
 CTRL-C to quit the keyboard control and then one more time to close the simulation
 ```
 
-### GIT WARNING
-DO NOT ADD the "build" and "devel" directories upon commits.
-thus NEVER do 
-```git add .```
+
+For any questions, comments, or concerns, please don't hesitate to reach out to us at [curc@columbia.edu](curc@columbia.edu). If you are a current member of CURC and would like to contribute to the repository, please reach out to Jonathan or Neil via email or Slack.
+
+# About Us
+
+We are the Columbia University Robotics Club, a student-run organization that develops robots and autonomous systems, both in a competitive and research setting. MATE ROV is an annual underwater vehicle challenge that we participate in. To learn more about our club, please visit columbiaroboticsclub.com
+
+
+
+
+
