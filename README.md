@@ -4,7 +4,17 @@
 
 Welcome to the MATE simulation repository, developed by Columbia University Robotics Club. This repo contains the source code for simulating our underwater vehicle using ROS and Gazebo.
 
-* Note : this simulation is currently heavily inspired from https://github.com/NishanthARao/ROS-Quadcopter-Simulation , it's a very nice simulation base so please see how the simulation started at your own leisure. 
+* Note : this simulation is inspired from https://github.com/NishanthARao/ROS-Quadcopter-Simulation , it's a very nice simulation base so please see how the simulation started at your own leisure. 
+
+# Requirements
+Please make sure to follow the setup steps we've outlined :
+[https://github.com/columbia-university-robotics/mate-rov/tree/master/ROS_2020_TUTORIAL ](https://github.com/columbia-university-robotics/mate-rov/tree/master/ROS_2020_TUTORIAL)
+That should set you up with a few packages, running through :
+```
+Ubuntu 18
+ROS melodic
+```
+
 
 # Getting Started
 
@@ -42,7 +52,7 @@ CTRL-C to quit the keyboard control and then one more time to close the simulati
 ```
 
 
-For any questions, comments, or concerns, please don't hesitate to reach out to us at [curc@columbia.edu](curc@columbia.edu). If you are a current member of CURC and would like to contribute to the repository, please reach out to Jonathan or Neil via email or Slack.
+For any questions, comments, or concerns, please don't hesitate to reach out to us at [curc@columbia.edu](curc@columbia.edu). If you are a current member of CURC and would like to contribute to the repository, please reach out to Jonathan Sanabria or Neil Nie via email or Slack.
 
 # About Us
 
