@@ -51,7 +51,7 @@ anything else : stop
 CTRL-C to quit the keyboard control and then one more time to close the simulation
 ```
 
-![ Mate ROV simulation mapping ](./media/mate_rov_demo.gif)
+![ Mate ROV simulation mapping ](./media/mate-rov-direction.jpg)
 
 
 
