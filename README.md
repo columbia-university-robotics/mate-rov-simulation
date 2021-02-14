@@ -51,6 +51,9 @@ anything else : stop
 CTRL-C to quit the keyboard control and then one more time to close the simulation
 ```
 
+![ Mate ROV simulation mapping ](./media/mate_rov_demo.gif)
+
+
 
 For any questions, comments, or concerns, please don't hesitate to reach out to us at [curc@columbia.edu](curc@columbia.edu). If you are a current member of CURC and would like to contribute to the repository, please reach out to Jonathan Sanabria or Neil Nie via email or Slack.
 
